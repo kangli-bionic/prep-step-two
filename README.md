@@ -19,4 +19,4 @@ for your technical interview over Skype with a TA from App Academy.
 If you have extra time before the interview and would like more practice, we
 recommend you check out [codewars](https://www.codewars.com/).
 
-[step1]: https://app-academy.gitbooks.io/prep-step-1/content/
+[step1]: https://app-academy.gitbooks.io/prep-step-one/content/
